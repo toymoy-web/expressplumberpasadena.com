@@ -1,0 +1,20 @@
+{
+  "name": "Pasadena Express Plumbing",
+  "short_name": "Pasadena Express",
+  "start_url": "/",
+  "display": "browser",
+  "theme_color": "#1B2E4B",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/img/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Cloudflare Pages resolves clean/extensionless URLs and directory index
+# files natively. Intentionally left without rewrite/redirect rules.
