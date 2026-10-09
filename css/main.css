@@ -357,3 +357,6 @@ footer .foot-disclaimer{color:var(--gray);font-size:12px;margin-top:6px;max-widt
   .why,.steps{grid-template-columns:1fr 1fr}
   .steps:before{display:none}
 }
+
+/* three-card variant of .boxgrid so an odd card count does not leave an empty cell */
+@media(min-width:900px){.boxgrid.three{grid-template-columns:repeat(3,1fr)}}
