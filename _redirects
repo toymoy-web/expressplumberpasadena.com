@@ -1,2 +1,18 @@
 # Cloudflare Pages resolves clean/extensionless URLs and directory index
 # files natively. Intentionally left without rewrite/redirect rules.
+
+# Blog slugs renamed to include the city (v11)
+/blog/diy-drain-cleaning-vs-plumber/ /blog/pasadena-diy-drain-cleaning-vs-plumber/ 301
+/blog/diy-drain-cleaning-vs-plumber /blog/pasadena-diy-drain-cleaning-vs-plumber/ 301
+/blog/slab-leaks-clay-soil-gulf-coast/ /blog/slab-leaks-clay-soil-pasadena/ 301
+/blog/slab-leaks-clay-soil-gulf-coast /blog/slab-leaks-clay-soil-pasadena/ 301
+/blog/tankless-vs-tank-water-heater-houston/ /blog/tankless-vs-tank-water-heater-pasadena/ 301
+/blog/tankless-vs-tank-water-heater-houston /blog/tankless-vs-tank-water-heater-pasadena/ 301
+/blog/texas-plumbing-license-what-to-know/ /blog/texas-plumbing-license-pasadena/ 301
+/blog/texas-plumbing-license-what-to-know /blog/texas-plumbing-license-pasadena/ 301
+/blog/water-heater-lifespan-hard-water-pasadena/ /blog/water-heater-lifespan-pasadena/ 301
+/blog/water-heater-lifespan-hard-water-pasadena /blog/water-heater-lifespan-pasadena/ 301
+/blog/what-to-do-burst-pipe-before-help-arrives/ /blog/burst-pipe-what-to-do-before-help-arrives-pasadena/ 301
+/blog/what-to-do-burst-pipe-before-help-arrives /blog/burst-pipe-what-to-do-before-help-arrives-pasadena/ 301
+/blog/winter-storm-uri-frozen-pipes-lessons/ /blog/winter-storm-uri-frozen-pipes-pasadena/ 301
+/blog/winter-storm-uri-frozen-pipes-lessons /blog/winter-storm-uri-frozen-pipes-pasadena/ 301
